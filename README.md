@@ -1,4 +1,4 @@
-#Instructions for doing the labs
+#Instructions for doing the labs#
 
 Ensure that you have the following items installed
 - Python3
